@@ -6,7 +6,7 @@ from datetime import datetime
 import pytz
 import re
 
-TOKEN = "PUT_TOKEN_HERE"
+TOKEN = "7943836044:AAGwCmRdBeGb7wzwJmKjNUx104d7eFquufM"
 bot = telebot.TeleBot(TOKEN)
 
 IST = pytz.timezone('Asia/Kolkata')
